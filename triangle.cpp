@@ -27,9 +27,9 @@ main() {
     float heightFloat;
 
     // input
-    std::cout << "Enter the base of a rectangle (cm): ";
+    std::cout << "Enter the base of a triangle (cm): ";
     std::cin >> baseFromUser;
-    std::cout << "Enter the height of a rectangle (cm): ";
+    std::cout << "Enter the height of a triangle (cm): ";
     std::cin >> heightFromUser;
     std::cout << std::endl;
 
